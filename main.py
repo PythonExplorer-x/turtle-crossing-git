@@ -15,33 +15,6 @@ screen.listen()
 scoreboard = Scoreboard()
 # Create cars.
 all_cars = []  # Contains all cars
-# I commented out the following by selecting them and pressing the CTRL+/
-# Keyboard shortcut
-# car = CarManager()
-# car1 = CarManager()
-# car2 = CarManager()
-# car3 = CarManager()
-# car4 = CarManager()
-# car5 = CarManager()
-# car6 = CarManager()
-# car7 = CarManager()
-# car8 = CarManager()
-# car9 = CarManager()
-# car10 = CarManager()
-# car11 = CarManager()
-#
-# all_cars.append(car)
-# all_cars.append(car1)
-# all_cars.append(car2)
-# all_cars.append(car3)
-# all_cars.append(car4)
-# all_cars.append(car5)
-# all_cars.append(car6)
-# all_cars.append(car7)
-# all_cars.append(car8)
-# all_cars.append(car9)
-# all_cars.append(car10)
-# all_cars.append(car11)
 
 # Replace the functionality of the commented out lines with a for loop.
 number_of_cars = 12
